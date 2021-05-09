@@ -1,0 +1,38 @@
+
+#sidemenu ul li
+{
+list-style-type:none;
+padding:10px;
+}
+#sidemenu ul li a
+{
+text-decoration:none;
+color:black;
+}
+#sidemenu ul li a:hover
+{
+color:black;
+/*display:inline-block;
+height:15px;
+width:130px;
+background-color:red;*/
+}
+#fmw ul li
+{
+list-style-type:none;
+float:left;
+padding:10px;
+}
+#fmw ul li a
+{
+text-decoration:none;
+}
+a
+{
+text-decoration:none;
+color:black;
+}
+a:hover
+{
+color:red;
+}
